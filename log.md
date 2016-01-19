@@ -26,6 +26,11 @@ Mon Jan 18 09:48:42 GMT 2016
 - put some new refs in zotero, but can't see where they ones are  from work computer ... 
 
 
+Tue Jan 19 10:54:58 GMT 2016
+- wrote 500 on social intelligence a la Hall, Ayling and Raymond
+- synced zotero refs
+- need to move now to the ethic of care stuff
+
 # TODO
 
-- check zotero sync for socbigdata
+- DONE check zotero sync for socbigdata
