@@ -34,3 +34,5 @@ Tue Jan 19 10:54:58 GMT 2016
 # TODO
 
 - DONE check zotero sync for socbigdata
+
+\w\{3\} \w\{3\} \d\d \d\d:\d\d:\d\d
