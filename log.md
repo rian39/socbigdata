@@ -31,8 +31,17 @@ Tue Jan 19 10:54:58 GMT 2016
 - synced zotero refs
 - need to move now to the ethic of care stuff
 
-# TODO
 
+Fri Jan 22 10:08:22 GMT 2016
+- trying to bring Bellacasa on care in
+- used some of Ruths notes to add this in
+- reading bellacasa 2012 on care and put it in archive
+- did 1900 words with references and sent to Ruth
+
+
+# TODO
+- look at Bellacasa technoscience article for more specific
+- go through murphy, viseu et al intro for more specific stuff
 - DONE check zotero sync for socbigdata
 
 ## Wed Apr 27 09:29:42 BST 2016
