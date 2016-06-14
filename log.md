@@ -44,4 +44,5 @@ Fri Jan 22 10:08:22 GMT 2016
 - go through murphy, viseu et al intro for more specific stuff
 - DONE check zotero sync for socbigdata
 
-\w\{3\} \w\{3\} \d\d \d\d:\d\d:\d\d
+## Wed Apr 27 09:29:42 BST 2016
+
